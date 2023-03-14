@@ -1,12 +1,17 @@
 # TacticalBattle
 
 ### Description #
-A brief summary of the game project, including the game's objective, gameplay mechanics, and any other essential details.
+Tactical Battle is a simple multiplayer game that can be played on a single device. 
+
+There's a checkered board with players on it that move in an order and can either atack or defend. The game is similar to chess, in a way, except each player has only one figure. The objective is very simple: to be the last player standing.
 ### Launch #
-Instructions on how to install the game, including any prerequisites or dependencies required.
+To play the game, you have to download all the files from the repository and launch the Game.java file located in the /src/main folder. To do this you might want to install the [Eclipse IDE](https://www.eclipse.org/ide/) for java programs.
 ### Usage #
-A guide on how to play the game, including the game controls, gameplay mechanics, and any other relevant information.
-### Contributing #
-Guidelines for contributing to the project, such as how to report issues or submit feature requests.
+After choosing the number of players and their settings the game starts. 
+
+The game is controlled by the mouse only. 
+- To move, click on the tile next to you. 
+- To attack, click on the player within your attack radius. 
+- To mount a shield, click on yourself.
 ### Credits #
-A list of contributors to the game project, including developers, artists, and any other collaborators.
+If you have any questions or you have found some errors, you're welcome to contact me via telegram (@PetkaKotletka) or email (podlesskiy2014@gmail.com).
